@@ -1,0 +1,16 @@
+C:\Users\piotr\source\repos\Evento\Evento.Core\bin\Debug\netcoreapp3.0\Evento.Core.deps.json
+C:\Users\piotr\source\repos\Evento\Evento.Core\bin\Debug\netcoreapp3.0\Evento.Core.dll
+C:\Users\piotr\source\repos\Evento\Evento.Core\bin\Debug\netcoreapp3.0\Evento.Core.pdb
+C:\Users\piotr\source\repos\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.dll
+C:\Users\piotr\source\repos\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.pdb
+C:\Users\piotr\source\repos\Stare\Evento\Evento.Core\bin\Debug\netcoreapp3.0\Evento.Core.deps.json
+C:\Users\piotr\source\repos\Stare\Evento\Evento.Core\bin\Debug\netcoreapp3.0\Evento.Core.dll
+C:\Users\piotr\source\repos\Stare\Evento\Evento.Core\bin\Debug\netcoreapp3.0\Evento.Core.pdb
+C:\Users\piotr\source\repos\Stare\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\Stare\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Stare\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Stare\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.dll
+C:\Users\piotr\source\repos\Stare\Evento\Evento.Core\obj\Debug\netcoreapp3.0\Evento.Core.pdb
